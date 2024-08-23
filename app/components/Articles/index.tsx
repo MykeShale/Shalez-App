@@ -143,7 +143,7 @@ export default class MultipleItems extends Component {
                 </div>
                 <div className="flex justify-center pb-20">
                     <button className='text-sm md:text-xl font-semibold hover:shadow-xl bg-theme3 text-white py-2 px-4 md:py-4 md:px-14 rounded-full hover:bg-theme1'>
-                        <Link href='/blog'>View Blogs ></Link>
+                        <Link href='/blog'>View Blogs</Link>
                     </button>
                 </div>
             </div>
